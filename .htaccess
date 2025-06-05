@@ -1,0 +1,2 @@
+# Use custom 404 page without redirecting
+ErrorDocument 404 /valentiev/404.html
